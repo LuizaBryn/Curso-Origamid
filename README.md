@@ -1,3 +1,3 @@
 # Curso-Origamid
-Projetos que fiz no curso
-apenas
+Projetos que estou fazendo no curso
+Não está terminado!
